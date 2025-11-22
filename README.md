@@ -14,11 +14,11 @@ let str = 'this is js code';
 
 ```
 
-#в папке с работой вверху пишем cmd
-#git config --global user.email
-#git config --global user.name
-#git add index.html
-#git status
-#git commut -m""
-#git push
-#git add -A
+# в папке с работой вверху пишем cmd
+# git config --global user.email
+# git config --global user.name
+# git add index.html
+# git status
+# git commut -m""
+# git push
+# git add -A
