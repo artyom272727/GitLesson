@@ -6,6 +6,6 @@ $('input').on('change',function () {
 				<h3>${result.login}</h3>
 				<img src="${result.avatar_url}">
 				<a href="${result.html_url}">Link to profile</a>
-			`)
-		}})
-})
+			`);
+		}});
+});
